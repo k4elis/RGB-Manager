@@ -1,0 +1,1 @@
+{"name": "RGB-Manager","version": "1.0.0","main": "electron-main.js","scripts": {"start": "electron ."},"dependencies": {"electron": "^latest"}}
