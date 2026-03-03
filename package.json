@@ -1,1 +1,1 @@
-{"name": "RGB-Manager","version": "1.0.0","main": "electron-main.js","scripts": {"start": "electron ."},"dependencies": {"electron": "^latest"}}
+{"name": "rgb-manager", "version": "1.0.0", "main": "src/index.js", "scripts": {"start": "electron .", "build": "webpack --mode production"}, "dependencies": {"react": "^17.0.0", "react-dom": "^17.0.0", "electron": "^12.0.0"}, "devDependencies": {"webpack": "^5.0.0", "babel-loader": "^8.0.0", "@babel/core": "^7.0.0", "@babel/preset-env": "^7.0.0", "@babel/preset-react": "^7.0.0"}}
